@@ -2,4 +2,4 @@
 A repo to keep annotations about Magento
 
 
-Teste commit
+Teste commit 2
