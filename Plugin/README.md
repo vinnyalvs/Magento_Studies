@@ -2,6 +2,8 @@
 
 Permitem a modificação de métodos públicos de outras classes sem modificar a classe original. Eles são executados antes ou depois do método original, ou substituem completamente o método original (executam em volta)
 
+Adobe Documentation: https://developer.adobe.com/commerce/php/development/components/plugins/
+
 ## Limitações de plugin: 
 
 * Final Methods e Final Classes 
