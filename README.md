@@ -6,6 +6,7 @@ Repositório que serve como estudos para Magento. A ideia aqui é juntar anotaç
 ## Seções 
 
 * [Plugins](Plugin/README.md)
+* [ACL](ACL/README.md)
 
 
 ## Seções em andamento
@@ -17,3 +18,6 @@ Repositório que serve como estudos para Magento. A ideia aqui é juntar anotaç
 * Routing
 * Observer
 * Cron
+* Themes
+* Less
+* UI components
