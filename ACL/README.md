@@ -38,20 +38,6 @@ Atributos do arquivo etc/acl.xml
 
 Lembrando que a prioridade na sortOrder é crescente, ou seja um item com valor sortOrder 10 será exibido antes de um com sortOrder 50.
 
-## Criação de Plugin
-
-Deve ser feita a definição de plugin no arquivo di.xml
-
-Um exemplo de como definir plugins no di.xml pode ser encontrado 
-## Glossário:
-
-        Método Observado: Método que queremos alterar o comportamento
-        Classe original: Classe que contém o Método Observado
-        $subject -> variável com classe original que contém o método a ser observado
-        MethodName -> nome do método observado
-        $proceed -: callback para o método observado
-
-
 ## Restringindo acesso
 
 Para controlar o acesso no item que nós queremos restringir devemos associar a ele o resource desejado. Isso pode ser feito em arquivos menu.xml, arquivos webapi.xml e arquivos de layout. Nos arquivos menu.xml e webapi.xml nos referimos como resource e nos de layout como aclResource.
